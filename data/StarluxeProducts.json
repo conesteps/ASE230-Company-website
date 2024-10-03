@@ -1,0 +1,76 @@
+{
+  "products_services": [
+    {
+      "name": "Celestial VR",
+      "description": " A virtual reality platform offering hyper-realistic experiences, from serene walks on Mars to diving into the Marianas Trench, all from the comfort of your living room.",
+      "applications": [
+        {
+          "name": "Educational Suites",
+          "description": "Users can explore ancient civilizations, understand complex scientific phenomena, or walk among dinosaurs, making learning truly immersive."
+        },
+        {
+          "name": "Adventure Modules",
+          "description": "Dive with sharks, climb Everest, or navigate the Amazon rainforest; Celestial VR promises adrenaline-filled experiences without risks."
+        },
+        {
+          "name": "Therapeutic Landscapes",
+          "description": "Tailored experiences like serene beaches, tranquil forests, or mesmerizing galaxies help users relax and de-stress."
+        }
+      ]
+    },
+    {
+      "name": "Luminara Glasses",
+      "description": " Lightweight AR glasses that overlay digital information on the real world. Users can seamlessly interact with virtual objects, get real-time data overlays, or even project a movie onto any wall.",
+      "applications": [
+        {
+          "name": "Educational Suites",
+          "description": "Users can explore ancient civilizations, understand complex scientific phenomena, or walk among dinosaurs, making learning truly immersive."
+        },
+        {
+          "name": "Adventure Modules",
+          "description": "Dive with sharks, climb Everest, or navigate the Amazon rainforest; Luminara Glasses offer safe, exciting adventures."
+        },
+        {
+          "name": "Therapeutic Landscapes",
+          "description": "Customized AR environments like tranquil beaches or star-filled skies help users unwind and reduce stress."
+        }
+      ]
+    },
+    {
+      "name": "QuantNet",
+      "description": "The world’s first accessible quantum computer service for businesses. It promises computations at speeds previously deemed impossible, ideal for industries like finance, healthcare, and space exploration.",
+      "applications": [
+        {
+          "name": "Educational Suites",
+          "description": "QuantNet allows users to simulate complex phenomena, enhancing learning in fields like quantum mechanics and computer science."
+        },
+        {
+          "name": "Business Solutions",
+          "description": "Quantum-powered computations for industries like finance and healthcare, solving previously unsolvable problems at unprecedented speeds."
+        },
+        {
+          "name": "Scientific Research",
+          "description": "Utilized by researchers in space exploration and genetic engineering to accelerate data analysis and discovery."
+        }
+      ]
+    },
+    {
+      "name": "Nebula Academy",
+      "description": "A global online institution teaching the next generation about AR, VR, and quantum computing. It offers courses from beginner to advanced levels and provides certification recognized worldwide.",
+      "applications": [
+        {
+          "name": "Educational Courses",
+          "description": "Courses from beginner to advanced levels, providing students with certification recognized worldwide in emerging technologies."
+        },
+        {
+          "name": "Virtual Labs",
+          "description": "Interactive labs for hands-on experience with AR, VR, and quantum technologies, making learning more engaging and practical."
+        },
+        {
+          "name": "Professional Development",
+          "description": "Programs designed for professionals to upskill and stay current with advancements in these cutting-edge fields."
+        }
+      ]
+    }
+  ]
+}
